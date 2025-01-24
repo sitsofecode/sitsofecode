@@ -1,11 +1,11 @@
 ### Hi there 👋 , My name is Sitsofe and my full name is Samuel Senouvo 
 
-<h1> I'm a Software developer ,  specially Frontend developer </h1>
-I am learning how can i improve myself in programming and get the  best version of my selfe 
+<h1> I'm a Software Engineer ,  specially Frontend development </h1>
+I enjoy building software solutions and constantly learning to improve my skills. My focus is on creating functional, user-friendly, and efficient applications.
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning  to be good frontend developer
-- 💬 Ask me about React  TailwindCss ...
+- 💬 Ask me about React, Tailwind CSS, JavaScript ...
 - 📫 How to reach me: sitsofesenouvo@gmail.com/ samuelsenouvo@gmail.com
 - 😄 Pronouns: Sitsofe
 - ⚡ Fun fact: manga , game
